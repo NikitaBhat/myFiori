@@ -3,7 +3,9 @@
 	<App id="idAppControl">
 		<pages>
 			<Page title="{i18n>gitDemo}">
-				<content></content>
+				<content>
+					<Button text="{i18n>Test}"/>
+				</content>
 			</Page>
 		</pages>
 	</App>
